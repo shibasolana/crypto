@@ -1,0 +1,36 @@
+{
+    "name": "Shiba Poker Coin",
+    "symbol": "SHIPO",
+    "description": "Coin Mastery at it's finest",
+    "seller_fee_basis_points": 700, 
+    "image": "https://raw.githubusercontent.com/shibasolana/crypto/main/logo.png", 
+    "attributes": [
+      {
+        "trait_type": "coin",
+        "value": "Mastery"
+      },
+      {
+        "trait_type": "game",
+        "value": "Shiba Poker Coin"
+      }
+    ],
+    "collection": {
+      "name": "Shiba Poker Coin",
+      "family": "SHIPO Family"
+    },
+    "properties": {
+      "files": [ 
+        {
+          "uri": "https://raw.githubusercontent.com/shibasolana/crypto/main/logo.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "97NyV6kGxSegVZxvHpvZEvtnKQPp3Cmtgmgew96YuvFM",
+          "share": 100
+        }
+      ]
+    }
+  }
